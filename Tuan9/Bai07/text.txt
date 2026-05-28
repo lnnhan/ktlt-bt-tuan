@@ -1,0 +1,3 @@
+This is is a repeated word test.
+No repeat here.
+Very very very good, and bad bad example.
