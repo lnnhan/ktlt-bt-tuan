@@ -1,3 +1,0 @@
-line=1 word=is count=2
-line=3 word=very count=3
-line=3 word=bad count=2
