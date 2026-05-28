@@ -1,0 +1,6 @@
+2026-05-29 08:00:01 [INFO] Service started
+2026-05-29 08:05:12 [WARN] Disk space low
+2026-05-29 08:10:23 [ERROR] Failed to connect to database
+2026-05-29 08:15:34 [INFO] Scheduled task executed
+2026-05-29 08:20:45 [ERROR] Timeout while reading response
+2026-05-29 08:25:56 [INFO] Service health check passed

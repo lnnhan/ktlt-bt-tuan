@@ -1,0 +1,1 @@
+count=7 / missing=3 / min=10.00 / max=30.00 / mean=18.57
