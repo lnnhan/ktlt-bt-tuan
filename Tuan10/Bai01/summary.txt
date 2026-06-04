@@ -1,0 +1,4 @@
+count_valid=2
+count_missing=1
+mean=25.000000
+std=15.000000

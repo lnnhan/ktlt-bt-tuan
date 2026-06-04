@@ -1,0 +1,3 @@
+valid=1
+invalid=0
+max_degree=1

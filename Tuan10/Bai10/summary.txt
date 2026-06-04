@@ -1,0 +1,5 @@
+rows=3
+cols=2
+total_missing_imputed=2
+col=value1 mean=25.000000 std=12.247449
+col=value2 mean=25.000000 std=4.082483
